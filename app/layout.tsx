@@ -5,7 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'FISAT Horizon Club',
-  description: 'Offcial Website',
+  description: 'Official Website',
 }
 
 export default function RootLayout({
