@@ -21,13 +21,6 @@ const committeeMembers: CommitteeMember[] = [
     image: "/Execom25/Ex/abhijay.jpg?height=400&width=300",
   },
   {
-    id: "2",
-    name: "Devananda Devakumar",
-    title: "Vice Chair",
-    category: "Core Team",
-    image: "/Execom25/Ex/devananda.jpg?height=400&width=300",
-  },
-  {
     id: "3",
     name: "Jude Abi",
     title: "Executive Lead",

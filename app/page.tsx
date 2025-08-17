@@ -92,11 +92,11 @@ export default function Component() {
       image: "/Execom25/Ex/abhijay.jpg?height=400&width=300",
     },
     {
-      id: "2",
-      name: "Ann Maria Tomichan",
-      title: "Operations Lead",
-      category: "Core Team",
-      image: "/Execom25/Ex/thomi.jpg?height=400&width=300",
+    id: "2",
+    name: "Devananda Devakumar",
+    title: "Vice Chair",
+    category: "Core Team",
+    image: "/Execom25/Ex/devananda.jpg?height=400&width=300",
     },
     {
       id: "3",
