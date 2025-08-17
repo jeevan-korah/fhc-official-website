@@ -103,7 +103,7 @@ export default function Component() {
       name: "Jude Abi",
       title: "Executive Lead",
       category: "Core Team",
-      image: "/Execom25/Ex/devananda.jpg?height=400&width=300",
+      image: "/Execom25/Ex/jude.jpg?height=400&width=300",
     },
   ];
   const membersByCategory = committeeMembers.reduce((acc, member) => {
