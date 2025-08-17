@@ -195,14 +195,14 @@ const committeeMembers: CommitteeMember[] = [
     name: "Devananda S",
     title: "Lead",
     category: "Doc And Content",
-    image: "/Execom25/Ex/abhijay.jpg?height=400&width=300",
+    image: "/Execom25/Documentation/devanandas.jpg?height=400&width=300",
   },
   {
     id: "26",
     name: "Annlia Lixon",
     title: "Co-Lead",
     category: "Doc And Content",
-    image: "/Execom25/Ex/abhijay.jpg?height=400&width=300",
+    image: "/Execom25/Documentation/annlia.jpg?height=400&width=300",
   },
   {
     id: "27",
@@ -216,7 +216,7 @@ const committeeMembers: CommitteeMember[] = [
     name: "Aiswarya",
     title: "",
     category: "Doc And Content",
-    image: "/Execom25/Ex/abhijay.jpg?height=400&width=300",
+    image: "/Execom25/Documentation/aiswarya.jpg?height=400&width=300",
   },
 
   // DESIGN TEAM
@@ -246,7 +246,7 @@ const committeeMembers: CommitteeMember[] = [
     name: "Adithya Krishna",
     title: "Associate Designer",
     category: "Design Team",
-    image: "/Execom25/Ex/abhijay.jpg?height=400&width=300",
+    image: "/Execom25/Design/adithya.jpg?height=400&width=300",
   },
   {
     id: "33",
@@ -260,14 +260,14 @@ const committeeMembers: CommitteeMember[] = [
     name: "Devasoorya Rajesh",
     title: "",
     category: "Design Team",
-    image: "/Execom25/Ex/abhijay.jpg?height=400&width=300",
+    image: "/Execom25/Design/devasoorya.jpg?height=400&width=300",
   },
   {
     id: "35",
     name: "Mursila",
     title: "",
     category: "Design Team",
-    image: "/Execom25/Ex/abhijay.jpg?height=400&width=300",
+    image: "/Execom25/Design/mursila.jpg?height=400&width=300",
   },
   {
     id: "36",
