@@ -34,7 +34,7 @@ export default function Component() {
       img: "/genesis-event.jpg?height=400&width=600",
       alt: "VR Innovation Workshop",
       content:
-        "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapien vitae pellentesque sem placerat in id cursus mi.",
+        "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapien vitae pellentesque sem placerat in id curss mi.",
     },
     {
       title: "BYTE 2.0 Class",
