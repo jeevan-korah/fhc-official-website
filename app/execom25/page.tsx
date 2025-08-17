@@ -22,10 +22,10 @@ const committeeMembers: CommitteeMember[] = [
   },
   {
     id: "2",
-    name: "Ann Maria Tomichan",
-    title: "Operations Lead",
+    name: "Devananda Devakumar",
+    title: "Vice Chair",
     category: "Core Team",
-    image: "/Execom25/Ex/thomi.jpg?height=400&width=300",
+    image: "/Execom25/Ex/devananda.jpg?height=400&width=300",
   },
   {
     id: "3",
@@ -36,11 +36,12 @@ const committeeMembers: CommitteeMember[] = [
   },
   {
     id: "4",
-    name: "Devananda Devakumar",
-    title: "Vice Chair",
+    name: "Ann Maria Tomichan",
+    title: "Operations Lead",
     category: "Core Team",
-    image: "/Execom25/Ex/devananda.jpg?height=400&width=300",
+    image: "/Execom25/Ex/thomi.jpg?height=400&width=300",
   },
+
   {
     id: "5",
     name: "Daniel Geo",
