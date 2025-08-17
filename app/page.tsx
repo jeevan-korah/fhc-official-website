@@ -58,7 +58,7 @@ export default function Component() {
     {
       title: "FHC Student Portal",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapien vitae pellentesque sem placerat in id cursus mi.",
+        "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapien vitae pellentesque sem placerat in id cursus m.",
       badges: [
         { label: "AI/ML", className: "bg-purple-100 text-purple-800" },
         { label: "Proposed", className: "bg-green-100 text-green-800" },
