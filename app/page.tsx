@@ -300,9 +300,9 @@ export default function Component() {
               FISAT <span className="text-purple-200">HORIZON</span> CLUB
             </h1>
             <p className="text-base sm:text-lg md:text-xl text-white/90 mb-6 md:mb-8 leading-relaxed drop-shadow-md px-4 md:px-0">
-              The official technology and innovation club of FISAT, pioneering
-              the future of virtual reality and innovative design through
-              collaborative learning and cutting-edge projects.
+              The official technology and innovation club of FISAT, 
+              pioneering the future through student-driven innovation, 
+              project-based learning, and collaborative mentorship.
             </p>
             <div className="flex justify-center">
               <Button
@@ -379,14 +379,12 @@ export default function Component() {
             <Card className="border-purple-100">
               <CardContent className="p-8">
                 <p className="text-lg text-gray-700 leading-relaxed text-center">
-                  FISAT HORIZON CLUB is the official technology and innovation
-                  club of FISAT Engineering College, initiated by IEDC FISAT in
-                  collaboration with the Computer Science department. As a
-                  recognized student organization, we are dedicated to merging
-                  the worlds of virtual reality and innovative design, providing
-                  our members with official academic support and
-                  industry-standard resources to excel in the field of
-                  technology.
+                  FISAT HORIZON CLUB is the official technology and innovation club of FISAT Engineering College, 
+                  initiated by IEDC FISAT in collaboration with the Department of Computer Science. 
+                  As a recognized student-driven organization, we are dedicated to fostering creativity and technical 
+                  excellence through project-based learning, mentorship, and collaboration. With access to academic guidance
+                   and industry-relevant resources, our members are empowered to explore emerging technologies and transform 
+                   ideas into impactful innovations.
                 </p>
               </CardContent>
             </Card>
